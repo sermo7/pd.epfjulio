@@ -8,7 +8,7 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-public class TestExamen {
+public class Prueba {
 
 	private Familia bebidas = new Conjunto("Bebidas");
 	private Familia refrescos = new Conjunto("Refrescos");
