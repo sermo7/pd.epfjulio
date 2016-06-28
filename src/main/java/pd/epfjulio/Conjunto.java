@@ -25,8 +25,7 @@ public class Conjunto extends Familia {
 		list.add(producto);		
 	}
 	
-	
-	public String getNameConjunto(){
+	public String getConjunto(){
 		String cadenaProductos="";
 		Iterator<Familia> it = this.list.iterator();
         while (it.hasNext()) {
